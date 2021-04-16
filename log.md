@@ -15,3 +15,13 @@ interesting process.
 ### Known Bugs:
 **Hits** - Once a hit location is found entering the same number two more times results in sunken ship. Need to record  
 and compare against guessed numbers.
+
+### Day 1: April 16, 2021
+
+**Today's Progress**: The focus was on functions; the basics of how to structure them, call them, pass arguments, and return values.  
+I'm learning JavaScript using the book "Head First JavaScript Programming" 
+
+- calculate_area.js
+
+**Thoughts:** Most of today's work seemed redundant as I am not completely new to programming. I've written a full-stack app  
+in Python/Flask that is currently in use, so the concepts are not new, but I feel I need a deep dive into JS.
