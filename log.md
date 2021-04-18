@@ -44,3 +44,15 @@ as my guide, and some conventions in the book are outdated.
 
 I'm using (and learning) the IDE Webstorm which is very good at pointing out the differences between conventions. A quick look at  
 tomorrow's lesson involves refactoring the arrays. It's hard to stop for the night, but it's family time.
+
+### Day 3: April 18, 2021
+
+**Today's Progress**: Continued with work on arrays, functions, and iteration. Added parallel arrays to find the best cost for the highest score.
+
+- bubbles.html
+
+**Thoughts**: I struggled with the logic a bit on connecting the dots between the parallel arrays in the getMostCostEffectiveSolution function.  
+For the most part my head just wasn't in it today, but I did manage to get through with a little Google assistance.  
+I expanded on the example a bit by displaying the cost in the final result.  
+
+Currently, everything I'm coding is going into my [Battleship](https://github.com/JeffDCorbett/battleship) project, which I do not like, but I'm assuming these extra examples will play a role in the game at some point.
