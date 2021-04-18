@@ -25,3 +25,22 @@ I'm learning JavaScript using the book "Head First JavaScript Programming"
 
 **Thoughts:** Most of today's work seemed redundant as I am not completely new to programming. I've written a full-stack app  
 in Python/Flask that is currently in use, so the concepts are not new, but I feel I need a deep dive into JS.
+
+### Day 2: April 17, 2021
+
+**Today's Progress**: The focus was on arrays and iterating over them with while and for loops. I created two new files for examples.  
+
+- arrayWhileLoop.js
+- arrayForLoop.js  
+
+The for loop contains improvements over the while loop example such as post-increment operator, empty array creation, and  
+array push functionality.
+
+**Thoughts:** Today's work was much more interesting than yesterday. As I mentioned before, I'm using "Head First JavaScript Programming"  
+as my guide, and some conventions in the book are outdated.
+
+- VAR vs Let to define variables
+- == vs === to prevent type coercion  
+
+I'm using (and learning) the IDE Webstorm which is very good at pointing out the differences between conventions. A quick look at  
+tomorrow's lesson involves refactoring the arrays. It's hard to stop for the night, but it's family time.
