@@ -56,3 +56,11 @@ For the most part my head just wasn't in it today, but I did manage to get throu
 I expanded on the example a bit by displaying the cost in the final result.  
 
 Currently, everything I'm coding is going into my [Battleship](https://github.com/JeffDCorbett/battleship) project, which I do not like, but I'm assuming these extra examples will play a role in the game at some point.
+
+### Day 4: April 19, 2021
+
+**Today's Progress**: Performed some very basic tinkering with objects. It was definitely more reading than coding, but I'm sure there is more to come.  
+
+- cars.js
+
+**Thoughts**: The work this evening was not very intriguing and I feel like I missed the point of it. I will go over it again tomorrow before diving in to more.  
