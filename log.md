@@ -64,3 +64,12 @@ Currently, everything I'm coding is going into my [Battleship](https://github.co
 - cars.js
 
 **Thoughts**: The work this evening was not very intriguing and I feel like I missed the point of it. I will go over it again tomorrow before diving in to more.  
+
+### Day 5: April 20, 2021
+
+**Today's Progress**: Expanded on yesterday's object examples to include automation using Math.random().  
+
+-auto_o_matic.html
+
+**Thoughts**: I need to explore options for applying these techniques to real world situations. I know I will have issues making these concepts stick until I can apply them in a meaningful way.  
+
