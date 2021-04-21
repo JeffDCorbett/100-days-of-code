@@ -73,3 +73,14 @@ Currently, everything I'm coding is going into my [Battleship](https://github.co
 
 **Thoughts**: I need to explore options for applying these techniques to real world situations. I know I will have issues making these concepts stick until I can apply them in a meaningful way.  
 
+### Day 6: April 21, 2021
+
+**Today's Progress**: Today I covered a lot more in regard to objects by adding methods and learning the use of "this" to access properties.  
+
+- carWithDrive.html
+- eightBall.js
+- eightBall.html
+- crackTheCode.js
+- crackTheCode.html
+
+**Thoughts**: The final example, crackTheCode, felt more like object oriented programming and it feels great to be getting started down this path. I'm happier with today's progress and looking forward to moving forward.
