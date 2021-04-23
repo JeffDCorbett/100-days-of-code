@@ -83,4 +83,15 @@ Currently, everything I'm coding is going into my [Battleship](https://github.co
 - crackTheCode.js
 - crackTheCode.html
 
-**Thoughts**: The final example, crackTheCode, felt more like object oriented programming and it feels great to be getting started down this path. I'm happier with today's progress and looking forward to moving forward.
+**Thoughts**: The final example, crackTheCode, felt more like object oriented programming and it feels great to be getting started down this path. I'm happier with today's progress and looking forward to moving forward.  
+
+### Day 7: April 22, 2021
+
+**Today's Progress**: I took some time to review and reflect. The Magic 8 Ball example, eightBall.js, didn't make sense to me. It's not a situation where you would want to iterate through responses, so I updated it to use Math.random.  
+
+Moved on to learn about DOM, getElementById, and window.onload with init function.  
+
+- planets.html
+
+**Thoughts**: Feels like I'm starting to move out of the simple beginner stuff and really starting to find ways to manipulate pages with JS. Feels like it is going to start getting fun!
+
