@@ -93,5 +93,14 @@ Moved on to learn about DOM, getElementById, and window.onload with init functio
 
 - planets.html
 
-**Thoughts**: Feels like I'm starting to move out of the simple beginner stuff and really starting to find ways to manipulate pages with JS. Feels like it is going to start getting fun!
+**Thoughts**: Feels like I'm starting to move out of the simple beginner stuff and really starting to find ways to manipulate pages with JS. Feels like it is going to start getting fun!  
+
+### Day 8: April 23, 2021
+
+**Today's Progress**: Got more practice manipulating static pages by getting an element id in the DOM
+
+- myPlaylist.html
+
+**Thoughts**: I'm interested in seeing where this is going. I'm looking forward to progressing further in the book and, hopefully, getting into a project.  
+
 
