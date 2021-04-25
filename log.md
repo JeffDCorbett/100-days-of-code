@@ -103,4 +103,18 @@ Moved on to learn about DOM, getElementById, and window.onload with init functio
 
 **Thoughts**: I'm interested in seeing where this is going. I'm looking forward to progressing further in the book and, hopefully, getting into a project.  
 
+### Day 9: April 23, 2021
+
+**Today's Progress**: Today was some additional manipulation of the DOM via JS code. Updated planet.html to change an attribute to add CSS styling.  
+
+- planets.html
+
+**Thoughts**: I'm not sure if I'm helping or sabotaging my learning... Some of the examples in the book "Head First JS Programming" don't make sense to me. For example, the planet.html page changes the text of a paragraph tag using a function and window.onload. The change happens so fast that you never see the original text.  
+
+I looked up setTimeout and changed the code to run the function after 10 seconds. You get to see the original text and then 10 seconds later BOOM the magic happens.  
+
+In the Magic 8 Ball example, responses were iterated through which didn't make sense to me especially since the "car" examples used Math.random. I updated the Magic 8 Ball example to use random responses instead of iteration.  
+
+
+
 
