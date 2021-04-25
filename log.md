@@ -103,7 +103,7 @@ Moved on to learn about DOM, getElementById, and window.onload with init functio
 
 **Thoughts**: I'm interested in seeing where this is going. I'm looking forward to progressing further in the book and, hopefully, getting into a project.  
 
-### Day 9: April 23, 2021
+### Day 9: April 24, 2021
 
 **Today's Progress**: Today was some additional manipulation of the DOM via JS code. Updated planet.html to change an attribute to add CSS styling.  
 
@@ -114,6 +114,21 @@ Moved on to learn about DOM, getElementById, and window.onload with init functio
 I looked up setTimeout and changed the code to run the function after 10 seconds. You get to see the original text and then 10 seconds later BOOM the magic happens.  
 
 In the Magic 8 Ball example, responses were iterated through which didn't make sense to me especially since the "car" examples used Math.random. I updated the Magic 8 Ball example to use random responses instead of iteration.  
+
+###Day 10: April 25  
+
+**Today's Progress**: I deviated from the JS path to do a little Python. Created a function that finds unique words in two separate sentences.  
+
+ex: sentence a = "the pancakes taste sweet"  
+ex: sentence b = "the pancakes taste salty"  
+result: ['sweet', 'salty']  
+
+I then rewrote the function to reduce the number of lines.  
+
+- unique_words.py
+- unique_words_improved.py  
+
+**Thoughts**: I felt like I needed a break from the JS examples I've been doing and spend a little time on Python. I really enjoy Python and look forward to moving forward with it.  
 
 
 
