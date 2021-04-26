@@ -130,6 +130,15 @@ I then rewrote the function to reduce the number of lines.
 
 **Thoughts**: I felt like I needed a break from the JS examples I've been doing and spend a little time on Python. I really enjoy Python and look forward to moving forward with it.  
 
+### Day 11: April 26  
+
+**Today's Progress**: Learned about types and the use of typeOf. Interesting information about NaN, Truthy, and Falsy. Two files added today.  
+
+- typeOf.js
+- lieDetectorTest.js  
+
+**Thoughts**: I'm progressing through Head First JS Programming, about 46% complete, and the concepts are beginning to get a little more involved. I'm interested to see how this plays out. I'm hoping for a tangible project before the end.  
+
 
 
 
