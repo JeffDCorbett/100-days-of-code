@@ -139,6 +139,12 @@ I then rewrote the function to reduce the number of lines.
 
 **Thoughts**: I'm progressing through Head First JS Programming, about 46% complete, and the concepts are beginning to get a little more involved. I'm interested to see how this plays out. I'm hoping for a tangible project before the end.  
 
+### Day 12: April 27  
 
+**Today's Progress**: I read more Head First JS Programming and reviewed everything I've covered so far in the book's exercises. Then I worked on Python code challenges on Pythonista Cafe and HackerRank.  
+
+- I scored 20 points in the Print Function challenge on HackerRank https://www.hackerrank.com//challenges/python-print/submissions/code/210779333  
+
+**Thoughts**: I completed the introductory Python code challenges on HackerRank. The challenges really make you think. Love it!
 
 
