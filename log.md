@@ -115,7 +115,7 @@ I looked up setTimeout and changed the code to run the function after 10 seconds
 
 In the Magic 8 Ball example, responses were iterated through which didn't make sense to me especially since the "car" examples used Math.random. I updated the Magic 8 Ball example to use random responses instead of iteration.  
 
-###Day 10: April 25  
+###Day 10: April 25, 2021  
 
 **Today's Progress**: I deviated from the JS path to do a little Python. Created a function that finds unique words in two separate sentences.  
 
@@ -130,7 +130,7 @@ I then rewrote the function to reduce the number of lines.
 
 **Thoughts**: I felt like I needed a break from the JS examples I've been doing and spend a little time on Python. I really enjoy Python and look forward to moving forward with it.  
 
-### Day 11: April 26  
+### Day 11: April 26, 2021  
 
 **Today's Progress**: Learned about types and the use of typeOf. Interesting information about NaN, Truthy, and Falsy. Two files added today.  
 
@@ -139,7 +139,7 @@ I then rewrote the function to reduce the number of lines.
 
 **Thoughts**: I'm progressing through Head First JS Programming, about 46% complete, and the concepts are beginning to get a little more involved. I'm interested to see how this plays out. I'm hoping for a tangible project before the end.  
 
-### Day 12: April 27  
+### Day 12: April 27, 2021  
 
 **Today's Progress**: I read more Head First JS Programming and reviewed everything I've covered so far in the book's exercises. Then I worked on Python code challenges on Pythonista Cafe and HackerRank.  
 
@@ -147,4 +147,17 @@ I then rewrote the function to reduce the number of lines.
 
 **Thoughts**: I completed the introductory Python code challenges on HackerRank. The challenges really make you think. Love it!
 
+### Day 13: April 28, 2021  
 
+**Today's Progress**: Definitely more productive. Today begins real work on the Battleship game so I completely restructured the project, removed testing examples, and did a lot of coding.  
+
+- Created HTML, CSS, and JS directories
+- a new Battleship.html
+- Battleship.css
+- Battleship.js  
+
+Coded quite a bit of CSS and JS for the project. Battleship.js contains view and model objects with a controller object on the way.  
+
+**Thoughts**: This feels more like a project and I definitely got into it. I've been working on this for nearly 3 hours and I can tell that I will be anxious to get back to it.  
+
+I'm not following the example exactly... Currently, the example has all of the css code in the html file, but I broke it out into its own file. The structure makes more sense to me and it's easier to keep track of what's going on in the html.  
