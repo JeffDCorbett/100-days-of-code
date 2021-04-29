@@ -161,3 +161,12 @@ Coded quite a bit of CSS and JS for the project. Battleship.js contains view and
 **Thoughts**: This feels more like a project and I definitely got into it. I've been working on this for nearly 3 hours and I can tell that I will be anxious to get back to it.  
 
 I'm not following the example exactly... Currently, the example has all of the css code in the html file, but I broke it out into its own file. The structure makes more sense to me and it's easier to keep track of what's going on in the html.  
+
+### Day 14: April 29, 2021  
+
+**Today's Progress**: I coded for about 3 hours again today and made great strides on my Battleship game. At this point it can be played, but there are some things to work out yet.  
+
+- many updates to battleship.js
+
+**Thoughts**: I gave serious consideration to giving up on JavaScript and going back to Python and I decided that I'm going to work through the rest of this book. I'm not a big fan of JS at this point, but maybe something will change before the end. Also, I'm sure there will be times that I'm going to have to do some level of JS in my projects so might as well continue on and learn what I can of it.  
+
