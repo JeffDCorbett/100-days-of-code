@@ -170,3 +170,10 @@ I'm not following the example exactly... Currently, the example has all of the c
 
 **Thoughts**: I gave serious consideration to giving up on JavaScript and going back to Python and I decided that I'm going to work through the rest of this book. I'm not a big fan of JS at this point, but maybe something will change before the end. Also, I'm sure there will be times that I'm going to have to do some level of JS in my projects so might as well continue on and learn what I can of it.  
 
+### Day 15: April 30, 2021  
+
+**Today's Progress**: Today's progress was non-existent. As I've stated previously, I am using the book Head Start JavaScript Programming and things have now shifted back to short exercises that fail to engage me. Most of my time spent today was on reading, viewing a few lines of code, reading, more reading, another line of code. I have no files to add today.  
+
+**Thoughts**: I'm struggling to keep on with JS. My desire is to become an expert at Python/Django, but I felt that I needed some JS regardless. I really feel like I'm wasting time on it.  
+
+
