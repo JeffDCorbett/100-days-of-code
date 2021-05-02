@@ -176,4 +176,27 @@ I'm not following the example exactly... Currently, the example has all of the c
 
 **Thoughts**: I'm struggling to keep on with JS. My desire is to become an expert at Python/Django, but I felt that I needed some JS regardless. I really feel like I'm wasting time on it.  
 
+### Day 16: May 1, 2021
+
+**Today's Progress**: Not so good at all... After going through the process of building out a basic Battleship project, the examples have dropped back to basic examples rather than extending the Battleship project.  
+
+60% of the way through the book now and this is the latest example:  
+
+function compareNumbers(num1, num2) {  
+if (num1 > num2) {  
+    return 1;  
+} else if (num1 === num2) {  
+return 0;  
+} else {  
+return -1;  
+}  
+}  
+
+var numbersArray = [60, 50, 62, 58, 54, 54];  
+numbersArray.sort(compareNumbers);  
+console.log(numbersArray);  
+
+To get some sense of accomplishment, I went over to Hacker Rank and completed a Python List Comprehension exercise.  
+
+**Thoughts**: I'm going to finish reading the book because I bought the book, but I will no longer be using it for my coding source for #100DaysOfCode. I will instead be switching to a Python source.  
 
