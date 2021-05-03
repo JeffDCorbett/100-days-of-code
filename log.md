@@ -200,3 +200,20 @@ To get some sense of accomplishment, I went over to Hacker Rank and completed a 
 
 **Thoughts**: I'm going to finish reading the book because I bought the book, but I will no longer be using it for my coding source for #100DaysOfCode. I will instead be switching to a Python source.  
 
+### Day 17: May 2, 2021  
+
+**Today's Progress**: Today was my first day working from "Python Basics: A Practical Introduction to Python 3" by the @realpython tutorial team. While it was basic, "Hello World", stuff it was great to be working with Python.  
+
+- print("Hello, world")
+- variables
+- assignment operator =
+- runtime errors
+- syntax errors
+- name errors
+- comments  
+
+The book comes with a learning path that includes online content and quizzes. I worked through the first 3 chapters and completed the quiz assigned at the end of chapter 3 with a 100%.  
+
+**Thoughts**: While the first 3 chapters are basic Python material, the lessons have been logical and play well to my learning style.  
+
+
