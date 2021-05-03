@@ -216,4 +216,16 @@ The book comes with a learning path that includes online content and quizzes. I 
 
 **Thoughts**: While the first 3 chapters are basic Python material, the lessons have been logical and play well to my learning style.  
 
+### Day 18: May 3, 2021  
+
+**Today's Progress**: I completed the reading and exercises for chapter 4 "Strings and Methods" and completed the quiz for a 100%.  
+
+- .lstrip(), .rstrip(), .strip()  
+- .find(), .replace()
+- indexes
+- concatenate + 
+- immutability  
+
+**Thoughts**: I feel like the material is well structured and condensed allowing me to learn more in less time. I'm enjoying what I'm learning and taking advantage of the additional resources.  
+
 
