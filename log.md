@@ -24,3 +24,12 @@ I also completed the online quiz for chapter 6 on RealPython.com
 
 **Thoughts**: I was actually looking forward to working on this today. I believe my desire to continue will grow as the topic becomes more advanced.  
 
+### Day 2: September 12, 2021  
+
+**Today's Progress**: I worked on conditional logic in ch 8 in the book. Nothing too exciting; nothing new to me. I created the files:  
+
+- ch8_sports.py  
+- ch8_sports_rev.py  
+- ch8_word_length.py  
+- ch8_number_guess.py  
+
